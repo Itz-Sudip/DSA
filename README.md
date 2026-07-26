@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Itz-Sudip/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Itz-Sudip/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Itz-Sudip/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
