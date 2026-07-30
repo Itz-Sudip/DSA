@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Itz-Sudip/DSA/tree/master/0031-next-permutation) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Itz-Sudip/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Itz-Sudip/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
