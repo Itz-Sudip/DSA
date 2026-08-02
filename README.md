@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | ------- |
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Itz-Sudip/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Itz-Sudip/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Itz-Sudip/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Itz-Sudip/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | ------- |
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
