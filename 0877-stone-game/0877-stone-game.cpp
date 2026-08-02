@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int f(vector<int> &a,int i,int j,vector<vector<int>> &dp){
-        if(i==j) return a[i];
-        if(dp[i][j]!=-1) return dp[i][j];
-        int path1=a[i]-f(a,i+1,j,dp);
-        int path2=a[j]-f(a,i,j-1,dp);
-        return dp[i][j]=max(path1,path2);
-    }
     bool stoneGame(vector<int>& piles) {
         int n=piles.size();
-        vector<vector<int>> dp(n,vector<int>(n,-1));
-        return f(piles,0,piles.size()-1,dp)>=0;
+        vector<vector<int>> dp(n,vector<int>(n,0));
+        for(int i=0;i<n;i++){
+            dp[i][i]=piles[i];
+        }
+        for(int i=0;i<n;i++){
+            for(int j=n-1;j>i;j--){
+                int path1=piles[i]-dp[i+1][j];
+                int path2=piles[j]-dp[i][j-1];
+                dp[i][j]=max(path1,path2);
+            }
+        }
+        return dp[0][n-1];
     }
 };
