@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Itz-Sudip/DSA/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Itz-Sudip/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Itz-Sudip/DSA/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Itz-Sudip/DSA/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Itz-Sudip/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/Itz-Sudip/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Itz-Sudip/DSA/tree/master/0210-course-schedule-ii) |
@@ -100,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Itz-Sudip/DSA/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Itz-Sudip/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Itz-Sudip/DSA/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Itz-Sudip/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## String
 |  |
