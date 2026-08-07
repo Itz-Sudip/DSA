@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Itz-Sudip/DSA/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Itz-Sudip/DSA/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/Itz-Sudip/DSA/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Itz-Sudip/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Itz-Sudip/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Itz-Sudip/DSA/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Itz-Sudip/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
