@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Itz-Sudip/DSA/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Itz-Sudip/DSA/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Itz-Sudip/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Itz-Sudip/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Itz-Sudip/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Itz-Sudip/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Itz-Sudip/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
