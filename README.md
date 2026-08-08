@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Itz-Sudip/DSA/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
 | [0486-predict-the-winner](https://github.com/Itz-Sudip/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Itz-Sudip/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Itz-Sudip/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -165,5 +168,14 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/Itz-Sudip/DSA/tree/master/0131-palindrome-partitioning) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
