@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Itz-Sudip/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Itz-Sudip/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Itz-Sudip/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Itz-Sudip/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Itz-Sudip/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Itz-Sudip/DSA/tree/master/0037-sudoku-solver) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Itz-Sudip/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Itz-Sudip/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Itz-Sudip/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Itz-Sudip/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Itz-Sudip/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
