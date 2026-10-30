@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Itz-Sudip/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Itz-Sudip/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Itz-Sudip/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Itz-Sudip/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Itz-Sudip/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Itz-Sudip/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Itz-Sudip/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Itz-Sudip/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Itz-Sudip/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Itz-Sudip/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Itz-Sudip/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
