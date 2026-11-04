@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Itz-Sudip/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Itz-Sudip/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Itz-Sudip/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Itz-Sudip/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Itz-Sudip/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Itz-Sudip/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Itz-Sudip/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Itz-Sudip/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Itz-Sudip/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Itz-Sudip/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Itz-Sudip/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Itz-Sudip/DSA/tree/master/3903-smallest-stable-index-i) |
