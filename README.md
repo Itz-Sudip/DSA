@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [2778-sum-of-squares-of-special-elements](https://github.com/Itz-Sudip/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Itz-Sudip/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Itz-Sudip/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3693-climbing-stairs-ii](https://github.com/Itz-Sudip/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Itz-Sudip/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Itz-Sudip/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Itz-Sudip/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! Here you will ge
 | [0542-01-matrix](https://github.com/Itz-Sudip/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Itz-Sudip/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Itz-Sudip/DSA/tree/master/1143-longest-common-subsequence) |
+| [3693-climbing-stairs-ii](https://github.com/Itz-Sudip/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
